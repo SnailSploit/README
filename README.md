@@ -1,21 +1,30 @@
 <p align="center">
-  <img src="URL_TO_YOUR_NEW_LOGO_IMAGE" alt="SnailSploit Logo" width="400"/>
+  <img src="YOUR_NEW_RAW_GITHUB_LOGO_URL_HERE" alt="SnailSploit Logo: White snail with skull integrated into shell on black circle background, text SNAILSPLOIT.COM and KAI AIZEN | GENAI SECURITY RESEARCHER" width="400"/>
 </p>
 <p align="center">
-  Researching and dismantling the security of AI systems.
+  Researching and dismantling the security of modern systems.
 </p>
 
 ---
 
 ### About Me
 
-I'm Kai Aizen, a **GenAI Researcher** at **ActiveFence** and the security researcher behind **SnailSploit**. My work is focused on offensive AI security, where I identify and disclose novel vulnerabilities (CVEs) in complex AI/ML systems. I am inspired by the hacker ethos of creative problem-solving and apply it to the new frontier of artificial intelligence.
+I'm Kai Aizen, a **GenAI Researcher** at **ActiveFence** and the security researcher behind **SnailSploit**. My expertise lies in offensive security, with a focus that spans **Generative AI**, **Cloud-Native (Kubernetes)**, and **Open-Source Intelligence (OSINT)**. I actively identify and disclose novel vulnerabilities (CVEs) in complex systems, applying the hacker ethos of creative problem-solving to uncover critical weaknesses.
 
-### 📌 Core Projects
+### 🛡️ Vulnerability Disclosures (CVEs)
 
-* **[AATMF (Automated Adversarial Threat Modeling Framework)](https://github.com/aatmf)**: An open-source framework for systematically identifying vulnerabilities in AI and LLM systems. This project is currently under consideration for inclusion within the OWASP Foundation.
-* **Adversarial Minds**: My upcoming book exploring advanced strategies for AI red teaming, exploitation, and defensive engineering.
-* **[The Jailbreak Chef](https://thejailbreakchef.com)**: A creative exploration into the art and science of prompt engineering and LLM manipulation.
+My research has led to the discovery and disclosure of the following security vulnerabilities. Detailed information and Proof-of-Concepts (PoCs) can be found in their dedicated repositories.
+
+* **[CVE-2025-11171](https://github.com/SnailSploit/CVE-2025-11171---GitHub-Security-Advisory)**: [Brief, high-level description of this vulnerability].
+* **[CVE-2025-9776](https://github.com/SnailSploit/CVE-2025-9776)**: [Brief, high-level description of this vulnerability].
+
+### 📌 Core Projects & Open-Source Tools
+
+* **[Adversarial AI Threat Modeling Framework (AATMF)](https://github.com/SnailSploit/Adversarial-AI-Threat-Modeling-Framework)**: An open-source framework to systematically identify vulnerabilities in AI/LLM systems. (Under OWASP consideration).
+* **[AwesomeSnailOSint](https://github.com/SnailSploit/AwesomeSnailOSint)**: A curated list and toolkit for Open-Source Intelligence (OSINT) gathering, focused on efficiency and effectiveness.
+* **[KubeRoast](https://github.com/SnailSploit/KubeRoast_v1)**: A tool designed to audit Kubernetes environments for security misconfigurations and potential attack vectors.
+* **Adversarial Minds**: My upcoming book exploring advanced strategies in AI red teaming and exploitation.
+* **[The Jailbreak Chef](https://thejailbreakchef.com)**: A creative exploration into the art of prompt engineering and LLM manipulation.
 
 ### 🔗 Connect & Explore
 
